@@ -32,6 +32,12 @@ Overall, the Pokedex Project aims to provide a comprehensive and user-friendly r
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | **Required**. Id of pokemon to fetch |
 
+## Screenshots
+Main Interface
+![App Screenshot](https://i.postimg.cc/qhwHxL3q/Main-Interface.png)
+
+Pokemon Detail Interface
+![App Screenshot](https://i.postimg.cc/XG405hXt/Detail.png)
 
 
 
